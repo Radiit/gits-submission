@@ -11,7 +11,7 @@ Soal ini meminta untuk menghasilkan urutan angka berdasarkan rumus **A000124** d
 2. **Rekursif**
 
 ## Screenshot Output
-![Output](output.png)
+![Output](./output/output.png)
 
 # Dense Ranking - Problem Solving
 
@@ -31,7 +31,7 @@ Dense Ranking adalah konsep yang membuat kondisi ketika beberapa pemain memiliki
 - **Output**: 6 4 2 1
 
 ## Screenshot Output
-![Output](outputDense.png)
+![Output](./output/outputDense.png)
 
 # Balanced Bracket - Problem Solving
 Balanced Bracket merupakan masalah untuk memeriksa apakah suatu string yang berisi bracket bracket memiliki pasangan yang seimbang antara bracket buka dan bracket tutup.
@@ -60,4 +60,4 @@ Penjelasan: Setiap bracket seimbang, antara bracket buka dan bracket tutup, mesk
     -  Operasi push dan pop pada stack memiliki kompleksitas waktu O(1)
 
 ## Screenshot Output
-![Output](balanceBracketOutput.png)
+![Output](./output/balanceBracketOutput.png)
